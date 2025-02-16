@@ -4,3 +4,5 @@ Kemudian kita bisa undang orang yang ingin diajak.
 
 Namun kolaborasi kadang terjadi. Kontibutor yang membantu memperbaiki kode dengan melakukan fork.<br>
 Fork dan cloning terlihat sama, namun yang membedakan fork tersimpan di repository kita sedangkan cloning di komputer atau laptop kontributor.
+
+Dengan menggunakan metode cloning, lebih sulit ketika kita akan mempublikasikannya. Kita harus melakukan pull request ke repositori penulis.
